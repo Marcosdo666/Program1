@@ -1,0 +1,17 @@
+C:\Program1\Tests\obj\Debug\netcoreapp2.1\Program1.csprojAssemblyReference.cache
+C:\Program1\Tests\obj\Debug\netcoreapp2.1\Program1.csproj.CoreCompileInputs.cache
+C:\Program1\Tests\obj\Debug\netcoreapp2.1\Program1.AssemblyInfoInputs.cache
+C:\Program1\Tests\obj\Debug\netcoreapp2.1\Program1.AssemblyInfo.cs
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\Program1.deps.json
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\Program1.runtimeconfig.json
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\Program1.runtimeconfig.dev.json
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\Program1.dll
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\Program1.pdb
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\Person.dll
+C:\Program1\Tests\bin\Debug\netcoreapp2.1\Person.pdb
+C:\Program1\Tests\obj\Debug\netcoreapp2.1\Program1.csproj.CopyComplete
+C:\Program1\Tests\obj\Debug\netcoreapp2.1\Program1.dll
+C:\Program1\Tests\obj\Debug\netcoreapp2.1\Program1.pdb
